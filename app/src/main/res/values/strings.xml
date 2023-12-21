@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notice">Novedades de la APP</string>
+    <string name="first_tab">Primera pestaña</string>
+    <string name="second_tab">Segunda pestaña</string>
+    <string name="menu">MENU</string>
+</resources>
